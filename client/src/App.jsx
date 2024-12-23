@@ -8,8 +8,8 @@ const App = () => {
   return (
     <>
       <NavBar />
-      <Video />
       <FormCard />
+      <Video />
       <IncomingCall />
     </>
   );
